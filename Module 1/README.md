@@ -1,5 +1,5 @@
 ## Module 1: Introduction
-In this module we'll implement **RAG pipelines** with MinSearch, Elastic Search, and OpenAI to answer questions about FAQ documents from multiple DataTalksClub ZoomCamp Courses and create a **Q&A system** to answer questions about the following documents below. 
+In this module we'll implement **RAG pipelines** with MinSearch, Elastic Search, and OpenAI togit  answer questions about FAQ documents from multiple DataTalksClub ZoomCamp Courses and create a **Q&A system** to answer questions about the following documents below. 
 
 #### Index Zoomcamp FAQ Documents
 - [DE Zoomcamp] (https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit)
