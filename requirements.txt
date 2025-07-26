@@ -8,3 +8,4 @@ scikit-learn
 ipywidgets
 docker
 sentence-transformers
+numpy
