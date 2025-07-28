@@ -6,6 +6,7 @@ elasticsearch==8.13.0
 pandas
 scikit-learn
 ipywidgets
+ipykernel
 docker
 sentence-transformers
 numpy
